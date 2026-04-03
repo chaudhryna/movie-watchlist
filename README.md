@@ -4,8 +4,8 @@ This is a Scrimba JavaScript solo project using the [Open Movie Database API](ht
 
 ## Screenshots of mobile views
 
-# Search page with search form and results
+### Search page with search form and results
 ![Image](./images/search.png/)
 
-# Watchlist page 
+### Watchlist page 
 ![Image](./images/watchlist.png)
